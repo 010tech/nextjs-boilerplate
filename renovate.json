@@ -1,4 +1,6 @@
 {
+  "automergeStrategy": "rebase",
+  "automerge": true,
   "extends": [
     "config:base"
   ]
